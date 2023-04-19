@@ -1,2 +1,2 @@
-# NKU_CS_Homework
-A homework for CS learning
+# NKU_CS_Project
+A project for CS learning
