@@ -4,3 +4,4 @@ and this is a simple little game I designed for my computer class project.
 Due to my own limitations in ability and time, I referred to the content published on CSDN. 
 The link is as follows:
 https://blog.csdn.net/senlinzm/article/details/23025525
+For any questions,chat me with the email:2212843@mail.nankai.edu.cn
